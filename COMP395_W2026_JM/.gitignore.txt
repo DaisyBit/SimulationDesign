@@ -2,14 +2,14 @@
 # Unity Generated Folders (IGNORE)
 # ================================
 [Ll]ibrary/
-    # Includes Library/PackageCache which contains huge Burst files (.dylib)
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Mm]emoryCaptures/
 UserSettings/
-MemoryCaptures/
+Packages/com.unity.collab-proxy/
 
 # Ignore ALL Library subfolders including PackageCache
 [Ll]ibrary/PackageCache/
